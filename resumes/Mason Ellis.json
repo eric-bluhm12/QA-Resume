@@ -1,0 +1,48 @@
+{
+  "name": "Mason Ellis",
+  "email": "masone0054@outlook.com",
+  "phone": "+1 409 916 8032",
+  "location": "Burlson, TX, USA",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "PuzzleHR",
+      "title": "Senior QA Automation Engineer",
+      "location": "",
+      "start_date": "Jun 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "BrightOps",
+      "title": "Senior QA Engineer",
+      "location": "",
+      "start_date": "Feb 2018",
+      "end_date": "May 2023"
+    },
+    {
+      "company": "Snapsheet",
+      "title": "QA Analyst",
+      "location": "",
+      "start_date": "July 2016",
+      "end_date": "Jan 2018"
+    },
+    {
+      "company": "Plego Technologies",
+      "title": "QA Tester",
+      "location": "",
+      "start_date": "Nov 2014",
+      "end_date": "May 2016"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "school": "Texas State University",
+      "start_year": "2008",
+      "end_year": "2011"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Bryan Copeland",
+  "email": "bryan.copeland12@outlook.com",
+  "phone": "+1 813 694 3803",
+  "location": "Lakeland, FL, USA",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Seneca Holdings",
+      "title": "Lead QA Engineer",
+      "location": "",
+      "start_date": "2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "WestRock Company",
+      "title": "Senior Test Automation Engineer",
+      "location": "",
+      "start_date": "2022",
+      "end_date": "2024"
+    },
+    {
+      "company": "AgileThought (Client: PwC, Deloitte, Suddath)",
+      "title": "Software Quality Engineer Manager",
+      "location": "",
+      "start_date": "2019",
+      "end_date": "2022"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "title": "SDET",
+      "location": "",
+      "start_date": "2017",
+      "end_date": "2019"
+    },
+    {
+      "company": "Blue Health Intelligence",
+      "title": "Lead Software QA Engineer / Business Analyst",
+      "location": "",
+      "start_date": "2014",
+      "end_date": "2017"
+    },
+    {
+      "company": "VeriFone",
+      "title": "Software QA Analyst",
+      "location": "",
+      "start_date": "2013",
+      "end_date": "2014"
+    },
+    {
+      "company": "SOE Software",
+      "title": "Software QA Analyst",
+      "location": "",
+      "start_date": "2012",
+      "end_date": "2013"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "school": "Southeastern University",
+      "start_year": "2007",
+      "end_year": "2012"
+    }
+  ]
+}
