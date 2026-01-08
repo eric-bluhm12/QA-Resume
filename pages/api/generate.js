@@ -401,7 +401,7 @@ Return ONLY valid JSON: {"title":"...","summary":"...","skills":{"Category":["Sk
     // Prepare data for template
     const templateData = {
       name: profileData.name,
-      title: "Senior Software Engineer",
+      title: "Senior QA Automation Engineer",
       email: profileData.email,
       phone: profileData.phone,
       location: profileData.location,
