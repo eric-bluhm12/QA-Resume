@@ -169,7 +169,7 @@ Analyze JD "About Us" section for **10-15 domain/compliance keywords** specific 
 ### **3. SUMMARY** (5-6 lines, 8-12 JD keywords + 3-5 domain keywords)
 
 **Structure:**
-- **Line 1:** [JD Title] with ${formattedYears}${yearsOfExperience <= 10 ? '+' : ''} years in [domain from JD] across startup and enterprise environments
+- **Line 1:** Senior QA Engineer with ${formattedYears}${yearsOfExperience <= 10 ? '+' : ''} years in [domain from JD] across startup and enterprise environments
 - **Line 2:** Expertise in [domain keyword] + [3-4 EXACT JD technologies WITH versions if specified]
 - **Line 3:** Proven track record in [domain keyword] + [key achievement with metric: %, $, time, scale]
 - **Line 4:** Proficient in [3-4 more JD technologies/methodologies]
@@ -181,7 +181,7 @@ Analyze JD "About Us" section for **10-15 domain/compliance keywords** specific 
 - If experience is over 10 years: Use "over 10 years" (NOT "14+ years" or "15+ years")
 
 **Example (FinTech):**
-"Senior Full Stack Engineer with 8+ years building scalable fintech platforms. Expertise in **payment processing systems**, **PCI-DSS compliance**, React.js 18, Node.js 20, and PostgreSQL. Proven track record implementing **fraud detection algorithms** that reduced chargebacks by 40% and processed $500M+ annually. Proficient in AWS infrastructure, Docker, Kubernetes, and **KYC/AML compliance frameworks**. Collaborative problem-solver with experience leading cross-functional teams in fast-paced startup environments. Strong focus on secure payment infrastructure, regulatory compliance, and delivering high-performance financial applications."
+"Senior QA Engineer with 8+ years building scalable fintech platforms. Expertise in **payment processing systems**, **PCI-DSS compliance**, React.js 18, Node.js 20, and PostgreSQL. Proven track record implementing **fraud detection algorithms** that reduced chargebacks by 40% and processed $500M+ annually. Proficient in AWS infrastructure, Docker, Kubernetes, and **KYC/AML compliance frameworks**. Collaborative problem-solver with experience leading cross-functional teams in fast-paced startup environments. Strong focus on secure payment infrastructure, regulatory compliance, and delivering high-performance financial applications."
 
 ---
 
@@ -408,7 +408,7 @@ Return ONLY valid JSON: {"title":"...","summary":"...","skills":{"Category":["Sk
     // Prepare data for template
     const templateData = {
       name: profileData.name,
-      title: resumeContent.title || "Senior QA Automation Engineer",
+      title: "Senior QA Engineer",
       email: profileData.email,
       phone: profileData.phone,
       location: profileData.location,
