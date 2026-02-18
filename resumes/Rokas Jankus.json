@@ -1,0 +1,55 @@
+{
+  "name": "Rokas Jankus",
+  "email": "jankus.rokas0321@outlook.com",
+  "phone": "",
+  "location": "Vilnius, Vilniaus, Lithuania",
+  "linkedin": "https://www.linkedin.com/in/rokas-jankus-5763b1135/",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "BrightOps",
+      "title": "Senior Quality Assurance Automation Engineer",
+      "location": "Remote",
+      "start_date": "Mar 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "Hexagon",
+      "title": "QA Engineer",
+      "location": "Remote",
+      "start_date": "Feb 2022",
+      "end_date": "Feb 2024"
+    },
+    {
+      "company": "Andersen",
+      "title": "Lead QA Engineer",
+      "location": "",
+      "start_date": "Jan 2020",
+      "end_date": "Feb 2022"
+    },
+    {
+      "company": "Andersen",
+      "title": "Quality Engineer",
+      "location": "",
+      "start_date": "Apr 2017",
+      "end_date": "Jan 2020"
+    },
+    {
+      "company": "Baltic Amadeus",
+      "title": "QA Tester",
+      "location": "",
+      "start_date": "Apr 2015",
+      "end_date": "Mar 2017"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Vilnius University",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ]
+}
