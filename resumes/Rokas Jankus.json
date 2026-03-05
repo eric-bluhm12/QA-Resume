@@ -3,21 +3,21 @@
   "email": "jankus.rokas0321@outlook.com",
   "phone": "",
   "location": "Vilnius, Vilniaus, Lithuania",
-  "linkedin": "https://www.linkedin.com/in/rokas-jankus-5763b1135/",
+  "linkedin": "https://www.linkedin.com/in/rokas-jankus-280bb03a6/",
   "website": "",
   
   "experience": [
     {
       "company": "BrightOps",
       "title": "Senior Quality Assurance Automation Engineer",
-      "location": "Remote",
+      "location": "",
       "start_date": "Mar 2024",
       "end_date": "Present"
     },
     {
       "company": "Hexagon",
       "title": "QA Engineer",
-      "location": "Remote",
+      "location": "",
       "start_date": "Feb 2022",
       "end_date": "Feb 2024"
     },
