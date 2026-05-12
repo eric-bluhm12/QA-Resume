@@ -1,0 +1,48 @@
+{
+  "name": "David Brown",
+  "email": "david.brown0154@outlook.com",
+  "phone": "+1 724 262 6158",
+  "location": "Princeton, TX, USA",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "BrightOps",
+      "title": "Senior QA Automation Engineer",
+      "location": "",
+      "start_date": "May 2024",
+      "end_date": "Present"
+    },
+    {
+      "company": "Lenovo",
+      "title": "Senior QA Engineer",
+      "location": "",
+      "start_date": "Aug 2019",
+      "end_date": "Mar 2024"
+    },
+    {
+      "company": "Accenture",
+      "title": "QA Engineer",
+      "location": "",
+      "start_date": "Apr 2017",
+      "end_date": "Aug 2019"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "QA Analyst",
+      "location": "",
+      "start_date": "Mar 2015",
+      "end_date": "Mar 2017"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science - Computer Science",
+      "school": "Texas Tech University",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ]
+}
