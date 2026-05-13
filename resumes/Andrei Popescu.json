@@ -1,0 +1,48 @@
+{
+  "name": "Andrei Popescu",
+  "email": "andrei.popescu54@outlook.com",
+  "phone": "",
+  "location": "Bucharest, Romania",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "BrightOps",
+      "title": "Senior QA Automation Engineer",
+      "location": "",
+      "start_date": "June 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "Endava",
+      "title": "Senior QA Engineer",
+      "location": "",
+      "start_date": "July 2020",
+      "end_date": "June 2023"
+    },
+    {
+      "company": "Webamboos",
+      "title": "QA Engineer",
+      "location": "",
+      "start_date": "September 2018",
+      "end_date": "July 2020"
+    },
+    {
+      "company": "SoftKraft",
+      "title": "QA Analyst",
+      "location": "",
+      "start_date": "October 2016",
+      "end_date": "September 2018"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science – Computer Science",
+      "school": "University of Cambridge",
+      "start_year": "2012",
+      "end_year": "2016"
+    }
+  ]
+}

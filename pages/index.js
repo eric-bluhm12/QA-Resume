@@ -28,8 +28,8 @@ export default function Home() {
     if (disable) return;
     if (!selectedProfile) return alert("Please select a profile");
     if (!jd) return alert("Please enter the Job Description");
-    if (!jobTitle) return alert("Please enter the Job Title");
-    if (!companyName) return alert("Please enter the Company Name");
+    // if (!jobTitle) return alert("Please enter the Job Title");
+    // if (!companyName) return alert("Please enter the Company Name");
 
     setDisable(true);
 
